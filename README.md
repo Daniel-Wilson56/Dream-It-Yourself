@@ -24,5 +24,6 @@ To install and compile Dream it Yourself, follow these steps:
 - Using the Unity Hub, install Unity Editor version 2022.3.48f1.
 - Through the Unity Hub, open the project with the Unity Editor.
 - Go to the "File" dropdown, and click "Build Settings".
+- Select the platform you want to build to.
 - Click "Build" and choose a folder for the project to be installed into.
 - This will create an executable file, which you can then run to play the game.
