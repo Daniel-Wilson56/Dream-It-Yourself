@@ -3,10 +3,10 @@ Dream it Yourself is a short bullet hell game, made in Unity using C#.
 It was built in a week for the [Cyberpunk Game Jam 2.0](https://itch.io/jam/cyberpunk-game-jam-2) in July 2025.
 You can download it [here,](https://deadlyzangzoo.itch.io/dream-it-yourself) or follow the steps below to install it yourself.
 # Features
-Controls: Arrow keys (move) and Z (select/attack).
-Dream it Yourself features a tutorial and two bosses, interspersed with story sections.
-The gameplay is that of a bullet hell - dodge the enemy's bullets.
-However, some bullets are glitchy - these can be attacked with your sword to be reflected back at the enemy to deal damage.
+- Controls: Arrow keys (move) and Z (select/attack).
+- Dream it Yourself features a tutorial and two bosses, interspersed with story sections.
+- The gameplay is that of a bullet hell - dodge the enemy's bullets.
+- However, some bullets are glitchy - these can be attacked with your sword to be reflected back at the enemy to deal damage.
 # Screenshots
 ![Screenshot of the first boss in the game](https://github.com/Daniel-Wilson56/Dream-It-Yourself/blob/main/Screenshots/DiY_1.png)
 
