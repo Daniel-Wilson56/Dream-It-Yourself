@@ -15,8 +15,7 @@ You can download it [here,](https://deadlyzangzoo.itch.io/dream-it-yourself) or 
 ![Screenshot of the second boss in the game](https://github.com/Daniel-Wilson56/Dream-It-Yourself/blob/main/Screenshots/DiY_3.png)
 # Installation
 To install and compile Dream it Yourself, follow these steps:
-- On the GitHub page, click "Code" and "Download ZIP".
-- Extract the zip file to a folder you want to store it in.
+- Clone the GitHub repository, or alternatively, you can download the ZIP and extract it to your preferred folder.
 - Install the [Unity Hub.](https://docs.unity.com/en-us/hub/install-hub)
 - In the Unity Hub, head to the "Projects" section.
 - Click the "Add" dropdown menu, and press "Add project from disk".
